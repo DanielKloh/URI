@@ -1,0 +1,16 @@
+D:\Fonte( C#)\Beecrowd\1014\bin\Debug\net5.0\1014.exe
+D:\Fonte( C#)\Beecrowd\1014\bin\Debug\net5.0\1014.deps.json
+D:\Fonte( C#)\Beecrowd\1014\bin\Debug\net5.0\1014.runtimeconfig.json
+D:\Fonte( C#)\Beecrowd\1014\bin\Debug\net5.0\1014.runtimeconfig.dev.json
+D:\Fonte( C#)\Beecrowd\1014\bin\Debug\net5.0\1014.dll
+D:\Fonte( C#)\Beecrowd\1014\bin\Debug\net5.0\1014.pdb
+D:\Fonte( C#)\Beecrowd\1014\obj\Debug\net5.0\1014.csproj.AssemblyReference.cache
+D:\Fonte( C#)\Beecrowd\1014\obj\Debug\net5.0\1014.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fonte( C#)\Beecrowd\1014\obj\Debug\net5.0\1014.AssemblyInfoInputs.cache
+D:\Fonte( C#)\Beecrowd\1014\obj\Debug\net5.0\1014.AssemblyInfo.cs
+D:\Fonte( C#)\Beecrowd\1014\obj\Debug\net5.0\1014.csproj.CoreCompileInputs.cache
+D:\Fonte( C#)\Beecrowd\1014\obj\Debug\net5.0\1014.dll
+D:\Fonte( C#)\Beecrowd\1014\obj\Debug\net5.0\refint\1014.dll
+D:\Fonte( C#)\Beecrowd\1014\obj\Debug\net5.0\1014.pdb
+D:\Fonte( C#)\Beecrowd\1014\obj\Debug\net5.0\1014.genruntimeconfig.cache
+D:\Fonte( C#)\Beecrowd\1014\obj\Debug\net5.0\ref\1014.dll
