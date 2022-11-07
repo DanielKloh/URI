@@ -1,0 +1,16 @@
+E:\Fonte( C#)\Beecrowd\1080\bin\Debug\net5.0\1080.exe
+E:\Fonte( C#)\Beecrowd\1080\bin\Debug\net5.0\1080.deps.json
+E:\Fonte( C#)\Beecrowd\1080\bin\Debug\net5.0\1080.runtimeconfig.json
+E:\Fonte( C#)\Beecrowd\1080\bin\Debug\net5.0\1080.runtimeconfig.dev.json
+E:\Fonte( C#)\Beecrowd\1080\bin\Debug\net5.0\1080.dll
+E:\Fonte( C#)\Beecrowd\1080\bin\Debug\net5.0\ref\1080.dll
+E:\Fonte( C#)\Beecrowd\1080\bin\Debug\net5.0\1080.pdb
+E:\Fonte( C#)\Beecrowd\1080\obj\Debug\net5.0\1080.csproj.AssemblyReference.cache
+E:\Fonte( C#)\Beecrowd\1080\obj\Debug\net5.0\1080.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fonte( C#)\Beecrowd\1080\obj\Debug\net5.0\1080.AssemblyInfoInputs.cache
+E:\Fonte( C#)\Beecrowd\1080\obj\Debug\net5.0\1080.AssemblyInfo.cs
+E:\Fonte( C#)\Beecrowd\1080\obj\Debug\net5.0\1080.csproj.CoreCompileInputs.cache
+E:\Fonte( C#)\Beecrowd\1080\obj\Debug\net5.0\1080.dll
+E:\Fonte( C#)\Beecrowd\1080\obj\Debug\net5.0\ref\1080.dll
+E:\Fonte( C#)\Beecrowd\1080\obj\Debug\net5.0\1080.pdb
+E:\Fonte( C#)\Beecrowd\1080\obj\Debug\net5.0\1080.genruntimeconfig.cache
