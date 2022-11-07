@@ -1,0 +1,16 @@
+E:\Fonte( C#)\Beecrowd\1002\bin\Debug\net5.0\1002.exe
+E:\Fonte( C#)\Beecrowd\1002\bin\Debug\net5.0\1002.deps.json
+E:\Fonte( C#)\Beecrowd\1002\bin\Debug\net5.0\1002.runtimeconfig.json
+E:\Fonte( C#)\Beecrowd\1002\bin\Debug\net5.0\1002.runtimeconfig.dev.json
+E:\Fonte( C#)\Beecrowd\1002\bin\Debug\net5.0\1002.dll
+E:\Fonte( C#)\Beecrowd\1002\bin\Debug\net5.0\ref\1002.dll
+E:\Fonte( C#)\Beecrowd\1002\bin\Debug\net5.0\1002.pdb
+E:\Fonte( C#)\Beecrowd\1002\obj\Debug\net5.0\1002.csproj.AssemblyReference.cache
+E:\Fonte( C#)\Beecrowd\1002\obj\Debug\net5.0\1002.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fonte( C#)\Beecrowd\1002\obj\Debug\net5.0\1002.AssemblyInfoInputs.cache
+E:\Fonte( C#)\Beecrowd\1002\obj\Debug\net5.0\1002.AssemblyInfo.cs
+E:\Fonte( C#)\Beecrowd\1002\obj\Debug\net5.0\1002.csproj.CoreCompileInputs.cache
+E:\Fonte( C#)\Beecrowd\1002\obj\Debug\net5.0\1002.dll
+E:\Fonte( C#)\Beecrowd\1002\obj\Debug\net5.0\ref\1002.dll
+E:\Fonte( C#)\Beecrowd\1002\obj\Debug\net5.0\1002.pdb
+E:\Fonte( C#)\Beecrowd\1002\obj\Debug\net5.0\1002.genruntimeconfig.cache
