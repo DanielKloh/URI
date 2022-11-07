@@ -1,0 +1,48 @@
+E:\Fonte( C#)\Beecrowd\1047\bin\Debug\net5.0\1047.exe
+E:\Fonte( C#)\Beecrowd\1047\bin\Debug\net5.0\1047.deps.json
+E:\Fonte( C#)\Beecrowd\1047\bin\Debug\net5.0\1047.runtimeconfig.json
+E:\Fonte( C#)\Beecrowd\1047\bin\Debug\net5.0\1047.runtimeconfig.dev.json
+E:\Fonte( C#)\Beecrowd\1047\bin\Debug\net5.0\1047.dll
+E:\Fonte( C#)\Beecrowd\1047\bin\Debug\net5.0\ref\1047.dll
+E:\Fonte( C#)\Beecrowd\1047\bin\Debug\net5.0\1047.pdb
+E:\Fonte( C#)\Beecrowd\1047\obj\Debug\net5.0\1047.csproj.AssemblyReference.cache
+E:\Fonte( C#)\Beecrowd\1047\obj\Debug\net5.0\1047.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fonte( C#)\Beecrowd\1047\obj\Debug\net5.0\1047.AssemblyInfoInputs.cache
+E:\Fonte( C#)\Beecrowd\1047\obj\Debug\net5.0\1047.AssemblyInfo.cs
+E:\Fonte( C#)\Beecrowd\1047\obj\Debug\net5.0\1047.csproj.CoreCompileInputs.cache
+E:\Fonte( C#)\Beecrowd\1047\obj\Debug\net5.0\1047.dll
+E:\Fonte( C#)\Beecrowd\1047\obj\Debug\net5.0\ref\1047.dll
+E:\Fonte( C#)\Beecrowd\1047\obj\Debug\net5.0\1047.pdb
+E:\Fonte( C#)\Beecrowd\1047\obj\Debug\net5.0\1047.genruntimeconfig.cache
+D:\Fonte( C#)\Beecrowd\1047\bin\Debug\net5.0\1047.exe
+D:\Fonte( C#)\Beecrowd\1047\bin\Debug\net5.0\1047.deps.json
+D:\Fonte( C#)\Beecrowd\1047\bin\Debug\net5.0\1047.runtimeconfig.json
+D:\Fonte( C#)\Beecrowd\1047\bin\Debug\net5.0\1047.runtimeconfig.dev.json
+D:\Fonte( C#)\Beecrowd\1047\bin\Debug\net5.0\1047.dll
+D:\Fonte( C#)\Beecrowd\1047\bin\Debug\net5.0\1047.pdb
+D:\Fonte( C#)\Beecrowd\1047\obj\Debug\net5.0\1047.csproj.AssemblyReference.cache
+D:\Fonte( C#)\Beecrowd\1047\obj\Debug\net5.0\1047.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fonte( C#)\Beecrowd\1047\obj\Debug\net5.0\1047.AssemblyInfoInputs.cache
+D:\Fonte( C#)\Beecrowd\1047\obj\Debug\net5.0\1047.AssemblyInfo.cs
+D:\Fonte( C#)\Beecrowd\1047\obj\Debug\net5.0\1047.csproj.CoreCompileInputs.cache
+D:\Fonte( C#)\Beecrowd\1047\obj\Debug\net5.0\1047.dll
+D:\Fonte( C#)\Beecrowd\1047\obj\Debug\net5.0\refint\1047.dll
+D:\Fonte( C#)\Beecrowd\1047\obj\Debug\net5.0\1047.pdb
+D:\Fonte( C#)\Beecrowd\1047\obj\Debug\net5.0\1047.genruntimeconfig.cache
+D:\Fonte( C#)\Beecrowd\1047\obj\Debug\net5.0\ref\1047.dll
+C:\Users\Acer\OneDrive\Ambiente de Trabalho\C#\Fonte( C#)\Beecrowd\1047\bin\Debug\net5.0\1047.exe
+C:\Users\Acer\OneDrive\Ambiente de Trabalho\C#\Fonte( C#)\Beecrowd\1047\bin\Debug\net5.0\1047.deps.json
+C:\Users\Acer\OneDrive\Ambiente de Trabalho\C#\Fonte( C#)\Beecrowd\1047\bin\Debug\net5.0\1047.runtimeconfig.json
+C:\Users\Acer\OneDrive\Ambiente de Trabalho\C#\Fonte( C#)\Beecrowd\1047\bin\Debug\net5.0\1047.runtimeconfig.dev.json
+C:\Users\Acer\OneDrive\Ambiente de Trabalho\C#\Fonte( C#)\Beecrowd\1047\bin\Debug\net5.0\1047.dll
+C:\Users\Acer\OneDrive\Ambiente de Trabalho\C#\Fonte( C#)\Beecrowd\1047\bin\Debug\net5.0\1047.pdb
+C:\Users\Acer\OneDrive\Ambiente de Trabalho\C#\Fonte( C#)\Beecrowd\1047\obj\Debug\net5.0\1047.csproj.AssemblyReference.cache
+C:\Users\Acer\OneDrive\Ambiente de Trabalho\C#\Fonte( C#)\Beecrowd\1047\obj\Debug\net5.0\1047.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive\Ambiente de Trabalho\C#\Fonte( C#)\Beecrowd\1047\obj\Debug\net5.0\1047.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\Ambiente de Trabalho\C#\Fonte( C#)\Beecrowd\1047\obj\Debug\net5.0\1047.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\Ambiente de Trabalho\C#\Fonte( C#)\Beecrowd\1047\obj\Debug\net5.0\1047.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Ambiente de Trabalho\C#\Fonte( C#)\Beecrowd\1047\obj\Debug\net5.0\1047.dll
+C:\Users\Acer\OneDrive\Ambiente de Trabalho\C#\Fonte( C#)\Beecrowd\1047\obj\Debug\net5.0\refint\1047.dll
+C:\Users\Acer\OneDrive\Ambiente de Trabalho\C#\Fonte( C#)\Beecrowd\1047\obj\Debug\net5.0\1047.pdb
+C:\Users\Acer\OneDrive\Ambiente de Trabalho\C#\Fonte( C#)\Beecrowd\1047\obj\Debug\net5.0\1047.genruntimeconfig.cache
+C:\Users\Acer\OneDrive\Ambiente de Trabalho\C#\Fonte( C#)\Beecrowd\1047\obj\Debug\net5.0\ref\1047.dll

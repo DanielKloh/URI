@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "h0L3q9m6AoHmH3EFfM/TuLOZLUZ2sizTENptMgMxqPM0QwPKQ6dTRKsCDAm8FondFZ/x/MvMB50IMB2t/+9t8w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\OneDrive\\Ambiente de Trabalho\\C#\\Fonte( C#)\\Beecrowd\\1049\\1049.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

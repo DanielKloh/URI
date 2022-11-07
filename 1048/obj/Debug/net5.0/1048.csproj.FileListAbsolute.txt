@@ -1,0 +1,16 @@
+E:\Fonte( C#)\Beecrowd\1048\bin\Debug\net5.0\1048.exe
+E:\Fonte( C#)\Beecrowd\1048\bin\Debug\net5.0\1048.deps.json
+E:\Fonte( C#)\Beecrowd\1048\bin\Debug\net5.0\1048.runtimeconfig.json
+E:\Fonte( C#)\Beecrowd\1048\bin\Debug\net5.0\1048.runtimeconfig.dev.json
+E:\Fonte( C#)\Beecrowd\1048\bin\Debug\net5.0\1048.dll
+E:\Fonte( C#)\Beecrowd\1048\bin\Debug\net5.0\ref\1048.dll
+E:\Fonte( C#)\Beecrowd\1048\bin\Debug\net5.0\1048.pdb
+E:\Fonte( C#)\Beecrowd\1048\obj\Debug\net5.0\1048.csproj.AssemblyReference.cache
+E:\Fonte( C#)\Beecrowd\1048\obj\Debug\net5.0\1048.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fonte( C#)\Beecrowd\1048\obj\Debug\net5.0\1048.AssemblyInfoInputs.cache
+E:\Fonte( C#)\Beecrowd\1048\obj\Debug\net5.0\1048.AssemblyInfo.cs
+E:\Fonte( C#)\Beecrowd\1048\obj\Debug\net5.0\1048.csproj.CoreCompileInputs.cache
+E:\Fonte( C#)\Beecrowd\1048\obj\Debug\net5.0\1048.dll
+E:\Fonte( C#)\Beecrowd\1048\obj\Debug\net5.0\ref\1048.dll
+E:\Fonte( C#)\Beecrowd\1048\obj\Debug\net5.0\1048.pdb
+E:\Fonte( C#)\Beecrowd\1048\obj\Debug\net5.0\1048.genruntimeconfig.cache
