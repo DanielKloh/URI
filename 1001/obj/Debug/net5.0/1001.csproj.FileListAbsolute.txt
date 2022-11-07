@@ -1,0 +1,16 @@
+C:\Users\Aluno\Desktop\Fonte( C#)\Beecrowd\1001\bin\Debug\net5.0\1001.exe
+C:\Users\Aluno\Desktop\Fonte( C#)\Beecrowd\1001\bin\Debug\net5.0\1001.deps.json
+C:\Users\Aluno\Desktop\Fonte( C#)\Beecrowd\1001\bin\Debug\net5.0\1001.runtimeconfig.json
+C:\Users\Aluno\Desktop\Fonte( C#)\Beecrowd\1001\bin\Debug\net5.0\1001.runtimeconfig.dev.json
+C:\Users\Aluno\Desktop\Fonte( C#)\Beecrowd\1001\bin\Debug\net5.0\1001.dll
+C:\Users\Aluno\Desktop\Fonte( C#)\Beecrowd\1001\bin\Debug\net5.0\ref\1001.dll
+C:\Users\Aluno\Desktop\Fonte( C#)\Beecrowd\1001\bin\Debug\net5.0\1001.pdb
+C:\Users\Aluno\Desktop\Fonte( C#)\Beecrowd\1001\obj\Debug\net5.0\1001.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\Fonte( C#)\Beecrowd\1001\obj\Debug\net5.0\1001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\Fonte( C#)\Beecrowd\1001\obj\Debug\net5.0\1001.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\Fonte( C#)\Beecrowd\1001\obj\Debug\net5.0\1001.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\Fonte( C#)\Beecrowd\1001\obj\Debug\net5.0\1001.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Fonte( C#)\Beecrowd\1001\obj\Debug\net5.0\1001.dll
+C:\Users\Aluno\Desktop\Fonte( C#)\Beecrowd\1001\obj\Debug\net5.0\ref\1001.dll
+C:\Users\Aluno\Desktop\Fonte( C#)\Beecrowd\1001\obj\Debug\net5.0\1001.pdb
+C:\Users\Aluno\Desktop\Fonte( C#)\Beecrowd\1001\obj\Debug\net5.0\1001.genruntimeconfig.cache
