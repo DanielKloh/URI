@@ -1,0 +1,16 @@
+C:\Users\Aluno\Desktop\Fonte( C#)\Beecrowd\1008\bin\Debug\net5.0\1008.exe
+C:\Users\Aluno\Desktop\Fonte( C#)\Beecrowd\1008\bin\Debug\net5.0\1008.deps.json
+C:\Users\Aluno\Desktop\Fonte( C#)\Beecrowd\1008\bin\Debug\net5.0\1008.runtimeconfig.json
+C:\Users\Aluno\Desktop\Fonte( C#)\Beecrowd\1008\bin\Debug\net5.0\1008.runtimeconfig.dev.json
+C:\Users\Aluno\Desktop\Fonte( C#)\Beecrowd\1008\bin\Debug\net5.0\1008.dll
+C:\Users\Aluno\Desktop\Fonte( C#)\Beecrowd\1008\bin\Debug\net5.0\ref\1008.dll
+C:\Users\Aluno\Desktop\Fonte( C#)\Beecrowd\1008\bin\Debug\net5.0\1008.pdb
+C:\Users\Aluno\Desktop\Fonte( C#)\Beecrowd\1008\obj\Debug\net5.0\1008.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\Fonte( C#)\Beecrowd\1008\obj\Debug\net5.0\1008.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\Fonte( C#)\Beecrowd\1008\obj\Debug\net5.0\1008.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\Fonte( C#)\Beecrowd\1008\obj\Debug\net5.0\1008.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\Fonte( C#)\Beecrowd\1008\obj\Debug\net5.0\1008.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Fonte( C#)\Beecrowd\1008\obj\Debug\net5.0\1008.dll
+C:\Users\Aluno\Desktop\Fonte( C#)\Beecrowd\1008\obj\Debug\net5.0\ref\1008.dll
+C:\Users\Aluno\Desktop\Fonte( C#)\Beecrowd\1008\obj\Debug\net5.0\1008.pdb
+C:\Users\Aluno\Desktop\Fonte( C#)\Beecrowd\1008\obj\Debug\net5.0\1008.genruntimeconfig.cache
