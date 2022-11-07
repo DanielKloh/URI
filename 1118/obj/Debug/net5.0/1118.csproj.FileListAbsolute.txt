@@ -1,0 +1,32 @@
+C:\Users\Aluno\Desktop\Fonte( C#)\Beecrowd\1118\obj\Debug\net5.0\1118.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\Fonte( C#)\Beecrowd\1118\obj\Debug\net5.0\1118.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\Fonte( C#)\Beecrowd\1118\obj\Debug\net5.0\1118.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\Fonte( C#)\Beecrowd\1118\obj\Debug\net5.0\1118.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\Fonte( C#)\Beecrowd\1118\obj\Debug\net5.0\1118.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Fonte( C#)\Beecrowd\1118\bin\Debug\net5.0\1118.exe
+C:\Users\Aluno\Desktop\Fonte( C#)\Beecrowd\1118\bin\Debug\net5.0\1118.deps.json
+C:\Users\Aluno\Desktop\Fonte( C#)\Beecrowd\1118\bin\Debug\net5.0\1118.runtimeconfig.json
+C:\Users\Aluno\Desktop\Fonte( C#)\Beecrowd\1118\bin\Debug\net5.0\1118.runtimeconfig.dev.json
+C:\Users\Aluno\Desktop\Fonte( C#)\Beecrowd\1118\bin\Debug\net5.0\1118.dll
+C:\Users\Aluno\Desktop\Fonte( C#)\Beecrowd\1118\bin\Debug\net5.0\ref\1118.dll
+C:\Users\Aluno\Desktop\Fonte( C#)\Beecrowd\1118\bin\Debug\net5.0\1118.pdb
+C:\Users\Aluno\Desktop\Fonte( C#)\Beecrowd\1118\obj\Debug\net5.0\1118.dll
+C:\Users\Aluno\Desktop\Fonte( C#)\Beecrowd\1118\obj\Debug\net5.0\ref\1118.dll
+C:\Users\Aluno\Desktop\Fonte( C#)\Beecrowd\1118\obj\Debug\net5.0\1118.pdb
+C:\Users\Aluno\Desktop\Fonte( C#)\Beecrowd\1118\obj\Debug\net5.0\1118.genruntimeconfig.cache
+D:\Fonte( C#)\Fonte( C#)\Fonte( C#)\Beecrowd\1118\bin\Debug\net5.0\1118.exe
+D:\Fonte( C#)\Fonte( C#)\Fonte( C#)\Beecrowd\1118\bin\Debug\net5.0\1118.deps.json
+D:\Fonte( C#)\Fonte( C#)\Fonte( C#)\Beecrowd\1118\bin\Debug\net5.0\1118.runtimeconfig.json
+D:\Fonte( C#)\Fonte( C#)\Fonte( C#)\Beecrowd\1118\bin\Debug\net5.0\1118.runtimeconfig.dev.json
+D:\Fonte( C#)\Fonte( C#)\Fonte( C#)\Beecrowd\1118\bin\Debug\net5.0\1118.dll
+D:\Fonte( C#)\Fonte( C#)\Fonte( C#)\Beecrowd\1118\bin\Debug\net5.0\1118.pdb
+D:\Fonte( C#)\Fonte( C#)\Fonte( C#)\Beecrowd\1118\obj\Debug\net5.0\1118.csproj.AssemblyReference.cache
+D:\Fonte( C#)\Fonte( C#)\Fonte( C#)\Beecrowd\1118\obj\Debug\net5.0\1118.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fonte( C#)\Fonte( C#)\Fonte( C#)\Beecrowd\1118\obj\Debug\net5.0\1118.AssemblyInfoInputs.cache
+D:\Fonte( C#)\Fonte( C#)\Fonte( C#)\Beecrowd\1118\obj\Debug\net5.0\1118.AssemblyInfo.cs
+D:\Fonte( C#)\Fonte( C#)\Fonte( C#)\Beecrowd\1118\obj\Debug\net5.0\1118.csproj.CoreCompileInputs.cache
+D:\Fonte( C#)\Fonte( C#)\Fonte( C#)\Beecrowd\1118\obj\Debug\net5.0\1118.dll
+D:\Fonte( C#)\Fonte( C#)\Fonte( C#)\Beecrowd\1118\obj\Debug\net5.0\refint\1118.dll
+D:\Fonte( C#)\Fonte( C#)\Fonte( C#)\Beecrowd\1118\obj\Debug\net5.0\1118.pdb
+D:\Fonte( C#)\Fonte( C#)\Fonte( C#)\Beecrowd\1118\obj\Debug\net5.0\1118.genruntimeconfig.cache
+D:\Fonte( C#)\Fonte( C#)\Fonte( C#)\Beecrowd\1118\obj\Debug\net5.0\ref\1118.dll
