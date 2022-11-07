@@ -1,0 +1,16 @@
+C:\Users\Aluno\Desktop\Fonte( C#)\Beecrowd\n sei o numero\bin\Debug\net5.0\n sei o numero.exe
+C:\Users\Aluno\Desktop\Fonte( C#)\Beecrowd\n sei o numero\bin\Debug\net5.0\n sei o numero.deps.json
+C:\Users\Aluno\Desktop\Fonte( C#)\Beecrowd\n sei o numero\bin\Debug\net5.0\n sei o numero.runtimeconfig.json
+C:\Users\Aluno\Desktop\Fonte( C#)\Beecrowd\n sei o numero\bin\Debug\net5.0\n sei o numero.runtimeconfig.dev.json
+C:\Users\Aluno\Desktop\Fonte( C#)\Beecrowd\n sei o numero\bin\Debug\net5.0\n sei o numero.dll
+C:\Users\Aluno\Desktop\Fonte( C#)\Beecrowd\n sei o numero\bin\Debug\net5.0\ref\n sei o numero.dll
+C:\Users\Aluno\Desktop\Fonte( C#)\Beecrowd\n sei o numero\bin\Debug\net5.0\n sei o numero.pdb
+C:\Users\Aluno\Desktop\Fonte( C#)\Beecrowd\n sei o numero\obj\Debug\net5.0\n sei o numero.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\Fonte( C#)\Beecrowd\n sei o numero\obj\Debug\net5.0\n sei o numero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\Fonte( C#)\Beecrowd\n sei o numero\obj\Debug\net5.0\n sei o numero.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\Fonte( C#)\Beecrowd\n sei o numero\obj\Debug\net5.0\n sei o numero.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\Fonte( C#)\Beecrowd\n sei o numero\obj\Debug\net5.0\n sei o numero.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Fonte( C#)\Beecrowd\n sei o numero\obj\Debug\net5.0\n sei o numero.dll
+C:\Users\Aluno\Desktop\Fonte( C#)\Beecrowd\n sei o numero\obj\Debug\net5.0\ref\n sei o numero.dll
+C:\Users\Aluno\Desktop\Fonte( C#)\Beecrowd\n sei o numero\obj\Debug\net5.0\n sei o numero.pdb
+C:\Users\Aluno\Desktop\Fonte( C#)\Beecrowd\n sei o numero\obj\Debug\net5.0\n sei o numero.genruntimeconfig.cache
