@@ -1,0 +1,16 @@
+D:\Nova pasta\Fonte( C#)\Beecrowd\1958\bin\Debug\net5.0\1958.exe
+D:\Nova pasta\Fonte( C#)\Beecrowd\1958\bin\Debug\net5.0\1958.deps.json
+D:\Nova pasta\Fonte( C#)\Beecrowd\1958\bin\Debug\net5.0\1958.runtimeconfig.json
+D:\Nova pasta\Fonte( C#)\Beecrowd\1958\bin\Debug\net5.0\1958.runtimeconfig.dev.json
+D:\Nova pasta\Fonte( C#)\Beecrowd\1958\bin\Debug\net5.0\1958.dll
+D:\Nova pasta\Fonte( C#)\Beecrowd\1958\bin\Debug\net5.0\1958.pdb
+D:\Nova pasta\Fonte( C#)\Beecrowd\1958\obj\Debug\net5.0\1958.csproj.AssemblyReference.cache
+D:\Nova pasta\Fonte( C#)\Beecrowd\1958\obj\Debug\net5.0\1958.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nova pasta\Fonte( C#)\Beecrowd\1958\obj\Debug\net5.0\1958.AssemblyInfoInputs.cache
+D:\Nova pasta\Fonte( C#)\Beecrowd\1958\obj\Debug\net5.0\1958.AssemblyInfo.cs
+D:\Nova pasta\Fonte( C#)\Beecrowd\1958\obj\Debug\net5.0\1958.csproj.CoreCompileInputs.cache
+D:\Nova pasta\Fonte( C#)\Beecrowd\1958\obj\Debug\net5.0\1958.dll
+D:\Nova pasta\Fonte( C#)\Beecrowd\1958\obj\Debug\net5.0\refint\1958.dll
+D:\Nova pasta\Fonte( C#)\Beecrowd\1958\obj\Debug\net5.0\1958.pdb
+D:\Nova pasta\Fonte( C#)\Beecrowd\1958\obj\Debug\net5.0\1958.genruntimeconfig.cache
+D:\Nova pasta\Fonte( C#)\Beecrowd\1958\obj\Debug\net5.0\ref\1958.dll
