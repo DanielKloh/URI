@@ -1,0 +1,16 @@
+C:\Users\Acer\OneDrive\Ambiente de Trabalho\C#\Beecrowd\2140\bin\Debug\net5.0\2140.exe
+C:\Users\Acer\OneDrive\Ambiente de Trabalho\C#\Beecrowd\2140\bin\Debug\net5.0\2140.deps.json
+C:\Users\Acer\OneDrive\Ambiente de Trabalho\C#\Beecrowd\2140\bin\Debug\net5.0\2140.runtimeconfig.json
+C:\Users\Acer\OneDrive\Ambiente de Trabalho\C#\Beecrowd\2140\bin\Debug\net5.0\2140.runtimeconfig.dev.json
+C:\Users\Acer\OneDrive\Ambiente de Trabalho\C#\Beecrowd\2140\bin\Debug\net5.0\2140.dll
+C:\Users\Acer\OneDrive\Ambiente de Trabalho\C#\Beecrowd\2140\bin\Debug\net5.0\2140.pdb
+C:\Users\Acer\OneDrive\Ambiente de Trabalho\C#\Beecrowd\2140\obj\Debug\net5.0\2140.csproj.AssemblyReference.cache
+C:\Users\Acer\OneDrive\Ambiente de Trabalho\C#\Beecrowd\2140\obj\Debug\net5.0\2140.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive\Ambiente de Trabalho\C#\Beecrowd\2140\obj\Debug\net5.0\2140.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\Ambiente de Trabalho\C#\Beecrowd\2140\obj\Debug\net5.0\2140.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\Ambiente de Trabalho\C#\Beecrowd\2140\obj\Debug\net5.0\2140.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Ambiente de Trabalho\C#\Beecrowd\2140\obj\Debug\net5.0\2140.dll
+C:\Users\Acer\OneDrive\Ambiente de Trabalho\C#\Beecrowd\2140\obj\Debug\net5.0\refint\2140.dll
+C:\Users\Acer\OneDrive\Ambiente de Trabalho\C#\Beecrowd\2140\obj\Debug\net5.0\2140.pdb
+C:\Users\Acer\OneDrive\Ambiente de Trabalho\C#\Beecrowd\2140\obj\Debug\net5.0\2140.genruntimeconfig.cache
+C:\Users\Acer\OneDrive\Ambiente de Trabalho\C#\Beecrowd\2140\obj\Debug\net5.0\ref\2140.dll
