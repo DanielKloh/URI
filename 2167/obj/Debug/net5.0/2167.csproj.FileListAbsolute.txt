@@ -1,0 +1,16 @@
+C:\Users\Acer\OneDrive\Ambiente de Trabalho\C#\Beecrowd\2167\bin\Debug\net5.0\2167.exe
+C:\Users\Acer\OneDrive\Ambiente de Trabalho\C#\Beecrowd\2167\bin\Debug\net5.0\2167.deps.json
+C:\Users\Acer\OneDrive\Ambiente de Trabalho\C#\Beecrowd\2167\bin\Debug\net5.0\2167.runtimeconfig.json
+C:\Users\Acer\OneDrive\Ambiente de Trabalho\C#\Beecrowd\2167\bin\Debug\net5.0\2167.runtimeconfig.dev.json
+C:\Users\Acer\OneDrive\Ambiente de Trabalho\C#\Beecrowd\2167\bin\Debug\net5.0\2167.dll
+C:\Users\Acer\OneDrive\Ambiente de Trabalho\C#\Beecrowd\2167\bin\Debug\net5.0\2167.pdb
+C:\Users\Acer\OneDrive\Ambiente de Trabalho\C#\Beecrowd\2167\obj\Debug\net5.0\2167.csproj.AssemblyReference.cache
+C:\Users\Acer\OneDrive\Ambiente de Trabalho\C#\Beecrowd\2167\obj\Debug\net5.0\2167.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive\Ambiente de Trabalho\C#\Beecrowd\2167\obj\Debug\net5.0\2167.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\Ambiente de Trabalho\C#\Beecrowd\2167\obj\Debug\net5.0\2167.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\Ambiente de Trabalho\C#\Beecrowd\2167\obj\Debug\net5.0\2167.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Ambiente de Trabalho\C#\Beecrowd\2167\obj\Debug\net5.0\2167.dll
+C:\Users\Acer\OneDrive\Ambiente de Trabalho\C#\Beecrowd\2167\obj\Debug\net5.0\refint\2167.dll
+C:\Users\Acer\OneDrive\Ambiente de Trabalho\C#\Beecrowd\2167\obj\Debug\net5.0\2167.pdb
+C:\Users\Acer\OneDrive\Ambiente de Trabalho\C#\Beecrowd\2167\obj\Debug\net5.0\2167.genruntimeconfig.cache
+C:\Users\Acer\OneDrive\Ambiente de Trabalho\C#\Beecrowd\2167\obj\Debug\net5.0\ref\2167.dll
