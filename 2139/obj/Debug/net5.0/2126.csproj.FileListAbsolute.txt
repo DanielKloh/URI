@@ -1,0 +1,32 @@
+C:\Users\Acer\OneDrive\Ambiente de Trabalho\C#\Beecrowd\2126\bin\Debug\net5.0\2126.exe
+C:\Users\Acer\OneDrive\Ambiente de Trabalho\C#\Beecrowd\2126\bin\Debug\net5.0\2126.deps.json
+C:\Users\Acer\OneDrive\Ambiente de Trabalho\C#\Beecrowd\2126\bin\Debug\net5.0\2126.runtimeconfig.json
+C:\Users\Acer\OneDrive\Ambiente de Trabalho\C#\Beecrowd\2126\bin\Debug\net5.0\2126.runtimeconfig.dev.json
+C:\Users\Acer\OneDrive\Ambiente de Trabalho\C#\Beecrowd\2126\bin\Debug\net5.0\2126.dll
+C:\Users\Acer\OneDrive\Ambiente de Trabalho\C#\Beecrowd\2126\bin\Debug\net5.0\2126.pdb
+C:\Users\Acer\OneDrive\Ambiente de Trabalho\C#\Beecrowd\2126\obj\Debug\net5.0\2126.csproj.AssemblyReference.cache
+C:\Users\Acer\OneDrive\Ambiente de Trabalho\C#\Beecrowd\2126\obj\Debug\net5.0\2126.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive\Ambiente de Trabalho\C#\Beecrowd\2126\obj\Debug\net5.0\2126.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\Ambiente de Trabalho\C#\Beecrowd\2126\obj\Debug\net5.0\2126.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\Ambiente de Trabalho\C#\Beecrowd\2126\obj\Debug\net5.0\2126.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Ambiente de Trabalho\C#\Beecrowd\2126\obj\Debug\net5.0\2126.dll
+C:\Users\Acer\OneDrive\Ambiente de Trabalho\C#\Beecrowd\2126\obj\Debug\net5.0\refint\2126.dll
+C:\Users\Acer\OneDrive\Ambiente de Trabalho\C#\Beecrowd\2126\obj\Debug\net5.0\2126.pdb
+C:\Users\Acer\OneDrive\Ambiente de Trabalho\C#\Beecrowd\2126\obj\Debug\net5.0\2126.genruntimeconfig.cache
+C:\Users\Acer\OneDrive\Ambiente de Trabalho\C#\Beecrowd\2126\obj\Debug\net5.0\ref\2126.dll
+C:\Users\Acer\OneDrive\Ambiente de Trabalho\C#\Beecrowd\2139 X\bin\Debug\net5.0\2126.exe
+C:\Users\Acer\OneDrive\Ambiente de Trabalho\C#\Beecrowd\2139 X\bin\Debug\net5.0\2126.deps.json
+C:\Users\Acer\OneDrive\Ambiente de Trabalho\C#\Beecrowd\2139 X\bin\Debug\net5.0\2126.runtimeconfig.json
+C:\Users\Acer\OneDrive\Ambiente de Trabalho\C#\Beecrowd\2139 X\bin\Debug\net5.0\2126.runtimeconfig.dev.json
+C:\Users\Acer\OneDrive\Ambiente de Trabalho\C#\Beecrowd\2139 X\bin\Debug\net5.0\2126.dll
+C:\Users\Acer\OneDrive\Ambiente de Trabalho\C#\Beecrowd\2139 X\bin\Debug\net5.0\2126.pdb
+C:\Users\Acer\OneDrive\Ambiente de Trabalho\C#\Beecrowd\2139 X\obj\Debug\net5.0\2126.csproj.AssemblyReference.cache
+C:\Users\Acer\OneDrive\Ambiente de Trabalho\C#\Beecrowd\2139 X\obj\Debug\net5.0\2126.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive\Ambiente de Trabalho\C#\Beecrowd\2139 X\obj\Debug\net5.0\2126.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\Ambiente de Trabalho\C#\Beecrowd\2139 X\obj\Debug\net5.0\2126.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\Ambiente de Trabalho\C#\Beecrowd\2139 X\obj\Debug\net5.0\2126.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Ambiente de Trabalho\C#\Beecrowd\2139 X\obj\Debug\net5.0\2126.dll
+C:\Users\Acer\OneDrive\Ambiente de Trabalho\C#\Beecrowd\2139 X\obj\Debug\net5.0\refint\2126.dll
+C:\Users\Acer\OneDrive\Ambiente de Trabalho\C#\Beecrowd\2139 X\obj\Debug\net5.0\2126.pdb
+C:\Users\Acer\OneDrive\Ambiente de Trabalho\C#\Beecrowd\2139 X\obj\Debug\net5.0\2126.genruntimeconfig.cache
+C:\Users\Acer\OneDrive\Ambiente de Trabalho\C#\Beecrowd\2139 X\obj\Debug\net5.0\ref\2126.dll
