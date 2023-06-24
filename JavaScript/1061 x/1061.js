@@ -6,11 +6,11 @@ var lines = input.split('/n');
 
 
 
-let diaComeco = Number(lines[0]);
+let diaComeco = Number(lines[0].split(" ")[1]);
 let horaComeco = Number(lines[1].split(":")[0]);
 let minComeco = Number(lines[1].split(":")[1]);
 let segComeco = Number(lines[1].split(":")[2]);
-let diaFim = Number(lines[2]);
+let diaFim = Number(lines[2].split(" ")[1]);
 let horaFim = Number(lines[3].split(":")[0]);
 let minFim = Number(lines[3].split(":")[1]);
 let segFim = Number(lines[3].split(":")[2]);
@@ -35,19 +35,19 @@ let totalFim = totalDiaFim + totalHoraFim + totalMinFim + segFim;
 
 let total = totalFim - totalComeco;
 
-if (total % 86400 > 0) {
+if (total % 86400 >= 0) {
     totalDia = Math.trunc(total / 86400);
     total %= 86400;
 }
 
-if (total % 3600 > 0) {
+if (total % 3600 >= 0) {
     totalHora = Math.trunc(total / 3600);
     total %= 3600;
 }
 
 
-totalMin = total / 60;
-total %= 60
+totalMin = Math.trunc(total / 60);
+total %= 60;
 
 
 totalSeg = total;
